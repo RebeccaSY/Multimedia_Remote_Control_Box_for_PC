@@ -1,0 +1,4 @@
+C:\Users\derri\Desktop\cs3601Project\COMP3601WHITE\visualStudioStuff\sln\fpgaPCCommunication\Debug\fpgaPCCommunication.exe
+C:\Users\derri\Desktop\cs3601Project\COMP3601WHITE\visualStudioStuff\sln\fpgaPCCommunication\Debug\fpgaPCCommunication.pdb
+C:\Users\derri\Desktop\COMP3601\COMP3601WHITE\visualStudioStuff\sln\fpgaPCCommunication\Debug\fpgaPCCommunication.exe
+C:\Users\derri\Desktop\COMP3601\COMP3601WHITE\visualStudioStuff\sln\fpgaPCCommunication\Debug\fpgaPCCommunication.pdb
