@@ -2,7 +2,7 @@
 Design project - A multimedia remote control box 
 
 Group members: 
-Derrick Laurente
-Quynh (Maria) Boi Phan
-Shuyi (Rebecca) Wang
-Zhixin Tang
++ Derrick Laurente
++ Quynh (Maria) Boi Phan
++ Shuyi (Rebecca) Wang
++ Zhixin Tang
